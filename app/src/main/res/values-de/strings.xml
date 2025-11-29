@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aufgabenverwaltung</string>
+    <string name="info">App-Information</string>
+    <string name="settings">Einstellungen</string>
+    <string name="add_task">Aufgabe hinzufügen</string>
+    <string name="task_title">Aufgabentitel</string>
+    <string name="task_description">Aufgabenbeschreibung</string>
+    <string name="add">Hinzufügen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="delete">Löschen</string>
+    <string name="no_tasks">Noch keine Aufgaben vorhanden</string>
+    <string name="mark_as_completed">Als erledigt markieren</string>
+    <string name="app_version">App-Version</string>
+    <string name="developer">Entwickler</string>
+    <string name="close">Schließen</string>
+    <string name="theme">Design</string>
+    <string name="language">Sprache</string>
+    <string name="system_theme">Systemdesign verwenden</string>
+    <string name="notifications">Benachrichtigungen</string>
+    <string name="notifications_enabled">Benachrichtigungen aktiviert</string>
+    <string name="notifications_disabled">Benachrichtigungen deaktiviert</string>
+    <string name="sort_order">Sortierung</string>
+    <string name="sort_by_date">Nach Datum sortieren</string>
+    <string name="sort_by_date_enabled">Chronologische Sortierung aktiviert</string>
+    <string name="sort_by_date_disabled">Chronologische Sortierung deaktiviert</string>
+    <string name="paste">Einfügen</string>
+    <string name="select_all">Alles auswählen</string>
+    <string name="cut">Ausschneiden</string>
+    <string name="copy">Kopieren</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="edit_task">Aufgabe bearbeiten</string>
+    <string name="save">Speichern</string>
+    <string name="sounds">Töne</string>
+    <string name="sounds_enabled">App-Töne aktiviert</string>
+    <string name="sounds_disabled">App-Töne deaktiviert</string>
+    <string name="time_range">Zeitraum</string>
+    <string name="start_time">Beginn</string>
+    <string name="end_time">Ende</string>
+    <string name="select_time">Zeit auswählen</string>
+    <string name="dark_theme">Dunkles Design</string>
+    <string name="light_theme">Helles Design</string>
+    <!-- Language names in their native form -->
+    <string name="english">English</string>
+    <string name="turkish">Türkçe</string>
+    <string name="german">Deutsch</string>
+    <string name="spanish">Español</string>
+    <string name="french">Français</string>
+    <string name="italian">Italiano</string>
+    <string name="japanese">日本語</string>
+    <string name="chinese">中文</string>
+    <string name="date_range">Datumsbereich</string>
+    <string name="start_date">Startdatum</string>
+    <string name="end_date">Enddatum</string>
+    <string name="select">Auswählen</string>
+</resources> 

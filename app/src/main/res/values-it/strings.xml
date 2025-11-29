@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gestione Attività</string>
+    <string name="info">Informazioni</string>
+    <string name="settings">Impostazioni</string>
+    <string name="add_task">Aggiungi attività</string>
+    <string name="task_title">Titolo attività</string>
+    <string name="task_description">Descrizione attività</string>
+    <string name="add">Aggiungi</string>
+    <string name="cancel">Annulla</string>
+    <string name="delete">Elimina</string>
+    <string name="no_tasks">Nessuna attività presente</string>
+    <string name="mark_as_completed">Segna come completata</string>
+    <string name="app_version">Versione app</string>
+    <string name="developer">Sviluppatore</string>
+    <string name="close">Chiudi</string>
+    <string name="theme">Tema</string>
+    <string name="language">Lingua</string>
+    <string name="system_theme">Usa tema di sistema</string>
+    <string name="notifications">Notifiche</string>
+    <string name="notifications_enabled">Notifiche attivate</string>
+    <string name="notifications_disabled">Notifiche disattivate</string>
+    <string name="sort_order">Ordinamento</string>
+    <string name="sort_by_date">Ordina per data</string>
+    <string name="sort_by_date_enabled">Ordinamento cronologico attivato</string>
+    <string name="sort_by_date_disabled">Ordinamento cronologico disattivato</string>
+    <string name="paste">Incolla</string>
+    <string name="select_all">Seleziona tutto</string>
+    <string name="cut">Taglia</string>
+    <string name="copy">Copia</string>
+    <string name="edit">Modifica</string>
+    <string name="edit_task">Modifica attività</string>
+    <string name="save">Salva</string>
+    <string name="sounds">Suoni</string>
+    <string name="sounds_enabled">Suoni attivati</string>
+    <string name="sounds_disabled">Suoni disattivati</string>
+    <string name="time_range">Intervallo di tempo</string>
+    <string name="start_time">Inizio</string>
+    <string name="end_time">Fine</string>
+    <string name="select_time">Seleziona ora</string>
+    <string name="dark_theme">Tema scuro</string>
+    <string name="light_theme">Tema chiaro</string>
+    <!-- Language names in their native form -->
+    <string name="english">English</string>
+    <string name="turkish">Türkçe</string>
+    <string name="german">Deutsch</string>
+    <string name="spanish">Español</string>
+    <string name="french">Français</string>
+    <string name="italian">Italiano</string>
+    <string name="japanese">日本語</string>
+    <string name="chinese">中文</string>
+    <string name="date_range">Intervallo Date</string>
+    <string name="start_date">Data Inizio</string>
+    <string name="end_date">Data Fine</string>
+    <string name="select">Seleziona</string>
+</resources> 
