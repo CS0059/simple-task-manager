@@ -9,7 +9,7 @@ Follow these steps to get a local copy up and running.
 **1. Clone the repository**
 
 ```bash
-git clone [https://github.com/CS0059/simple-task-manager.git](https://github.com/CS0059/simple-task-manager.git)
+git clone https://github.com/CS0059/simple-task-manager.git
 cd simple-task-manager
 ```
 **2. Open in Android Studio**
