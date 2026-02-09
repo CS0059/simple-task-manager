@@ -72,3 +72,4 @@ To build and run this project, you will need:
 * **Minimum SDK:** 24 (Android 7.0)
 * **Target SDK:** 34 (Android 14)
 * **Gradle:** Version 8.13
+
